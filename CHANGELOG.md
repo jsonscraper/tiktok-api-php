@@ -1,4 +1,4 @@
-# Unreleased
+# 0.1.0
 
 - Complete named access to 54 TikTok routes, plus `call()` and the existing fluent builder.
 - Preserve positional signatures of existing methods; new methods accept query arrays.
